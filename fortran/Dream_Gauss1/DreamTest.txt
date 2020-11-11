@@ -1,0 +1,10 @@
+number of parameters:
+3
+upper bound of all parameters(separated by comma):
+3.0d0,1.16d0,0.89d0
+maximum generations(maximum number of parameter samples will be generated in one chain):
+8000
+observed data file name:
+ob_data.dat
+number of observed data
+20

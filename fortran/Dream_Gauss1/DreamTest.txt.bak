@@ -1,0 +1,35 @@
+number of parameters:
+8
+lower bound of all parameters(separated by comma):
+0.1d0,0.0005d0,0.0001d0,0.1d0,25.0d0,35.0d0,1.0d0,600.0d0
+upper bound of all parameters(separated by comma):
+3.0d0,0.5d0,40.0d0,0.4d0,60.0d0,70.0d0,10.0d0,800.0d0
+maximum limit(maximum number of parameter samples will be generated in one chain):
+5000
+maximum generations(maximum number of parameter samples will be generated in one chain):
+4000
+number of Markov chains:
+4
+observed data file name:
+ob_data.dat
+number of observed data
+27
+npair: number of pairs for building a candidate(npair<nchain)
+3
+nCR: number of CR values
+3
+step interval for long jump
+5
+step interval to print out Gelman-Rubin R statistic
+10
+Gelman-Rubin R threshold used to check chain convergence
+1.2d0
+restart indicator(yes/no)
+no
+
+
+
+
+
+
+
